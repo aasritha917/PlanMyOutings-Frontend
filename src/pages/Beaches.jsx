@@ -106,7 +106,6 @@ export default function Beaches({ darkMode }) {
         </motion.div>
       </div>
 
-      {/* Dropdown Section */}
       <AnimatePresence>
         {showBeaches && (
           <motion.div
